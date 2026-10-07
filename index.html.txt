@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026 男人趴 北海岸之旅</title>
+<style>
+  body { font-family: sans-serif; background: #f4f6f9; padding: 15px; margin: 0; }
+  .card { background: #fff; border-radius: 12px; padding: 16px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+  h1 { text-align: center; color: #1e3a8a; margin: 10px 0 20px; font-size: 22px; }
+  h2 { font-size: 18px; padding-bottom: 8px; border-bottom: 2px solid; margin-top: 0; }
+  .day1 h2 { color: #2563eb; border-color: #2563eb; }
+  .day2 h2 { color: #0d9488; border-color: #0d9488; }
+  .item { display: flex; align-items: center; justify-content: space-between; padding: 10px; margin-bottom: 8px; border: 1px solid #e5e7eb; border-radius: 8px; text-decoration: none; color: #1f2937; }
+  .time { background: #fef3c7; color: #d97706; font-weight: bold; font-size: 13px; padding: 2px 6px; border-radius: 4px; margin-right: 6px; }
+  .tag { color: #4b5563; font-weight: bold; font-size: 13px; margin-right: 6px; }
+  .name { font-weight: bold; font-size: 15px; }
+  .btn { background: #e0e7ff; color: #2563eb; font-size: 12px; padding: 4px 8px; border-radius: 12px; font-weight: bold; }
+  .sub { margin-left: 10px; font-size: 14px; line-height: 1.8; }
+  .sub a { color: #2563eb; font-weight: bold; }
+  .end { text-align: center; background: #fef2f2; color: #dc2626; font-weight: bold; padding: 10px; border-radius: 8px; }
+</style>
+</head>
+<body>
+
+
+<h1>2026 男人趴 北海岸之旅<br><small style="font-size:14px; color:#666;">(10/31 ~ 11/1)</small></h1>
+
+
+<div class="card day1">
+  <h2>【 DAY 1 】</h2>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=來來海鮮+富基漁港" target="_blank">
+    <div><span class="time">12:00</span><span class="tag">午餐</span><span class="name">來來海鮮</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=老梅綠石槽" target="_blank">
+    <div><span class="tag">景點</span><span class="name">老梅綠石槽 ＋ 富貴角燈塔</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=李家出走+三芝" target="_blank">
+    <div><span class="time">16:00</span><span class="tag">民宿 Check-in</span><span class="name">李家出走</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=海邊灶咖" target="_blank">
+    <div><span class="time">17:00</span><span class="tag">晚餐</span><span class="name">海邊灶咖</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=全聯福利中心+三芝中興店" target="_blank">
+    <div><span class="tag">採買</span><span class="name">全聯福利中心 三芝中興店</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=俞家肉粽+傳承店" target="_blank">
+    <div><span class="tag">點心</span><span class="name">俞家肉粽 傳承店</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+</div>
+
+
+<div class="card day2">
+  <h2>【 DAY 2 】</h2>
+  <div class="item" style="display:block;">
+    <span class="tag">早餐 (三選一)</span>
+    <div class="sub">
+      • <a href="https://www.google.com/maps/search/?api=1&query=金再發蒸餃" target="_blank">金再發蒸餃 📍</a><br>
+      • <a href="https://www.google.com/maps/search/?api=1&query=車庫小籠包" target="_blank">車庫小籠包 📍</a><br>
+      • <a href="https://www.google.com/maps/search/?api=1&query=小惡魔早午餐" target="_blank">小惡魔早午餐 📍</a>
+    </div>
+  </div>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=李家出走+三芝" target="_blank">
+    <div><span class="time">11:00</span><span class="tag">退房 Check-out</span><span class="name">李家出走</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=石門王家肉粽" target="_blank">
+    <div><span class="tag">名產</span><span class="name">石門王家肉粽</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=甕大王甕仔雞" target="_blank">
+    <div><span class="time">12:30</span><span class="tag">午餐</span><span class="name">甕大王甕仔雞</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <a class="item" href="https://www.google.com/maps/search/?api=1&query=大鵬足湯公園" target="_blank">
+    <div><span class="time">14:00</span><span class="tag">景點</span><span class="name">大鵬足湯公園</span></div>
+    <span class="btn">📍 地圖</span>
+  </a>
+  <div class="end">15:00 解散</div>
+</div>
+
+
+</body>
+</html>
